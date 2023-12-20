@@ -1,0 +1,271 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	border: none;
+}
+
+body{
+	background-color: #e1d4cb;
+}
+#header{
+	width: 980px;
+	height: 280px;
+	background-color: #333;
+	background-image: url("C:/Users/HP/Desktop/folder uas/media/gambar 3.jpg");
+	background-size: 100% 100%;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+#navigasi{
+	width: 980px;
+	height: 50px;
+	background-color: #7c0a02;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto
+}
+
+#navigasi a{
+	float: right;
+	display: block;
+	font-size: 23px;
+	text-align: center;	
+	color: white;
+	text-decoration: none;
+	overflow: hidden;
+	padding: 15px 95px 25px 59px;
+}
+
+#navigasi a:hover{
+	background-color: brown;
+	color: white;
+}
+ 
+#content{
+width: 980px;
+height: auto;
+background-color: #fcf0ec;
+margin-left: auto;
+margin-right: auto;
+padding: 5px 15px 5px 15px;
+}
+
+#content img{
+	color: broun;
+	float: left;
+	margin-right: 20px;
+	width: 45%;
+	height: auto;
+	padding-top: 10px;
+}
+
+#content p{
+	text-align: justify;
+	font-size: 20px;
+	font-family: times new roman;
+	padding-top: 10px;
+}
+
+#content h1{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 5px;
+}
+
+#footer{
+	width: 980px;
+	height: 50px;
+	text-align: center;
+	font-size: 20px;
+	background-color: #7c0a02;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+}
+
+#footer {
+	color: #cbb39c;
+}
+
+---(ABOUT)
+#content2{
+width: 980px;
+height: auto;
+background-color: #fcf0ec;
+margin-left: auto;
+margin-right: auto;
+padding: 5px 15px 5px 15px;
+}
+
+.h2{
+	text-align: center;
+	font-size: 70px;
+	padding-top: 5px;
+	font-family: Brush Script Std;
+	color: #7c0a02;
+}
+
+.kalimat{
+	text-align: center;
+	font-size: 50px;
+	padding-top: 5px;
+}
+
+.paragraph{
+	text-align: left;
+	font-size: 25px;
+	font-family: times new roman;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+.h3{
+	text-align: left;
+	font-size: 50px;
+	padding-top: 5px;
+	font-family: times new roman;
+	color: #7c0a02;
+}
+
+#paragraph2{
+	text-align: left;
+	font-size: 25px;
+	font-family: ;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+#paragraph2 img{
+	color: broun;
+	float: right;
+	margin-right: 20px;
+	width: 40%;
+	height: auto;
+	padding: 10px 15px;
+}
+
+#paragraph2 i{
+	text-align: left;
+	font-size: 50px;
+	padding-top: 5px;
+	font-family: Adobe Caslon Pro;
+	color: black;
+}
+
+#paragraph2 p{
+	text-align: justify;
+	font-size: 20px;
+	font-family: times new roman;
+	padding: 10px 0px 10px 10px;
+}
+---(GALLERY)
+#content3{
+	width: 980px;
+	height: auto;
+	background-color: #fcf0ec;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px 15px 5px 15px;
+}
+.bungkus{
+			width: 980px;
+			height: 650px;
+			margin: auto;
+			background-color: #ffe4c4;
+			padding: 5px 0px 5px 0px;
+				
+		}
+		h3{
+			color: brown ; 
+			font-family: Brush Script Std;
+			text-align: center;
+			font-size: 50px;
+		}
+
+.kata{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 5px;
+	font-family: Adobe Caslon Pro;
+	color: black;
+}
+b{
+	color: #7c0a02;
+	}
+	.galeri{
+			float: left;
+			margin: 10px;
+			margin-left: 20px;
+			width: 200px;
+			border: 1px solid #7c0a02; 
+			box-shadow: 1px 2px 3px;
+			border-radius: 10px;
+			box-sizing: border-box;
+			color: ;
+		}
+		p{
+			text-align: center;
+			font-size: 14px;
+			font-family: elephant;
+			color: #000;
+		}
+		img{
+			width: 100%;
+			border: 5px;
+
+		}}
+}
+
+#content4{}
+.contentcontact{
+			height: 100px;
+			padding-top: 20px;
+			width: 980px;
+height: auto;
+background-color: #fcf0ec;
+margin-left: auto;
+margin-right: auto;
+padding: 5px 15px 5px 15px;
+}
+.h1{
+	color: brown;
+}
+		}
+		#wrapper{
+			color: white;
+			width: 500px;
+			height: 200px;
+			padding-left: 250px;
+			float: right;
+			}
+		input[type=text],textarea,select{	
+				width: 100%;
+				background-color: white;
+				padding: 10px 15px;
+				border-radius: 10px;
+				border: none;
+				box-sizing: border-box;
+			}
+			input[type=radio]{
+				height: 18px;
+				width: 18px;
+				vertical-align: middle;
+				margin: 10px 5px 15px 10px;
+			}
+			.h1contact{
+				color: white;
+				padding-left: 400px;
+				margin-top: 20px;
+				font-family:Broadway;
+				color: whitesmoke;
+			}
+			input[type=submit]{
+				color: white;
+				background-color: #481511;
+				padding: 5px 10px;
+				margin-top: 50px;
+				border: none;
+			}
